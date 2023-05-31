@@ -18,7 +18,11 @@ spring:
   # todo 需替换配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
+<<<<<<< HEAD
     url: jdbc:mysql://localhost:3306/comas
+=======
+    url: jdbc:mysql://localhost:3306/sodb
+>>>>>>> dd04bcc (添加测试类)
     username: root
     password: Leadchina123
   # Redis 配置
